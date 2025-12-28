@@ -1,0 +1,18 @@
+div{
+    display:flex;
+    justify-content: space-between;
+}
+body{
+    background-color: rgb(192, 226, 255);
+}
+
+#n{
+    text-align: left;
+}
+#s{
+    text-align: center;
+}
+#v{
+    text-align: right;
+}
+

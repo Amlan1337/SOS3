@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+    
+}
+
+.g{
+    border: solid black 20px;
+    width: 1000px;
+    align-items: center;
+}
+.button{
+    padding: 20px;
+    width: 66px;
+
+}
+body{
+    display:flex;
+    background-color: red;
+}
+#s{
+    color: red;
+    padding:20px;   
+    background-color: yellow;
+}
+.buttons{
+    color: red;
+    padding:20px;   
+    background-color: yellow;
+}
+.row input{
+    padding:6px 38px;
+    margin:0;
+}
